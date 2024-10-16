@@ -6,3 +6,6 @@ The main objective is to analyze sales performance by:
 - salesperson
 - product type
 The company aims to understand which regions and salespeople contribute most to revenue, as well as identify areas for improvement within its sales teams. This analysis will help drive better business decisions to boost overall sales performance.
+
+
+![Power BI Dashboard screenshot]()
