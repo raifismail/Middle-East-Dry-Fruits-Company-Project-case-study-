@@ -15,16 +15,16 @@ The company aims to understand which regions and salespeople contribute most to 
 
 1. Which region generates the highest total revenue?
    
-   a) The column chart provides a breakdown of total revenue by region, helping identify the most profitable areas.
+   -  The column chart provides a breakdown of total revenue by region, helping identify the most profitable areas.
    
 3. Who are the top 5 salespeople by revenue?
 
-   a) The donut chart shows the top-performing salespeople and their contribution to total revenue, highlighting individuals 
+   -  The donut chart shows the top-performing salespeople and their contribution to total revenue, highlighting individuals 
      who drive the company’s success.
 
 5. How do different teams perform in terms of total sales?
    
-   a) The stacked bar chart provides insights into team performance, revealing which teams contribute the most to overall 
+   -  The stacked bar chart provides insights into team performance, revealing which teams contribute the most to overall 
       revenue.
    
 # Recommendations and Insights
