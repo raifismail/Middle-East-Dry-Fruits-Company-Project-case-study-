@@ -5,14 +5,14 @@ The main objective is to analyze sales performance by:
 - region
 - salesperson
 - product type
-The company aims to understand which regions and salespeople contribute most to revenue, as well as identify areas for improvement within its sales teams. This analysis will help drive better business decisions to boost overall sales performance.
+###The company aims to understand which regions and salespeople contribute most to revenue, as well as identify areas for improvement within its sales teams. This analysis will help drive better business decisions to boost overall sales performance.
 
 
 ![Power BI Dashboard screenshot](https://github.com/raifismail/Middle-East-Dry-Fruits-Company-Project-case-study-/blob/33de14d8acd371f2c4534957e991a83df2dc5b3e/Screenshot%202024-10-16%20113359.png)
 
 #Key Questions Addressed
-1. Which region generates the highest total revenue?
-   a) The column chart provides a breakdown of total revenue by region, helping identify the most profitable areas.
+###1. Which region generates the highest total revenue?
+a) The column chart provides a breakdown of total revenue by region, helping identify the most profitable areas.
    
 2. Who are the top 5 salespeople by revenue?
    a) The donut chart shows the top-performing salespeople and their contribution to total revenue, highlighting individuals 
