@@ -8,6 +8,23 @@ The main objective is to analyze sales performance by:
   
 The company aims to understand which regions and salespeople contribute most to revenue, as well as identify areas for improvement within its sales teams. This analysis will help drive better business decisions to boost overall sales performance.
 
+# Data Cleaning and Preparation
+Several data cleaning steps were performed before the analysis:
+
+1. Data Modeling:
+   - Standardized the column names by modeling the "Geography" and "Geo" columns to ensure consistency in regional data across all records
+
+2. Trimming Unnecessary Spaces:
+   - Used the TRIM function to remove any leading or trailing spaces from text fields, ensuring the data is clean and ready for analysis.
+
+3. Team Allocation for Unassigned Salespeople:
+   - Identified salespeople who were not allocated to any team. Used the Replace Value function to assign these salespeople to a "Special Team" to ensure they are included 
+     in the analysis.
+
+4. Adding a Profit Column:
+   - Created an additional column to calculate profit by using the difference between revenue (Amount) and cost. This new column was added to the data table to provide 
+     insights into profitability.
+
 
 ![Power BI Dashboard screenshot](https://github.com/raifismail/Middle-East-Dry-Fruits-Company-Project-case-study-/blob/33de14d8acd371f2c4534957e991a83df2dc5b3e/Screenshot%202024-10-16%20113359.png)
 
