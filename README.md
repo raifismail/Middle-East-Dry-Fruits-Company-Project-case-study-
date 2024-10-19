@@ -25,6 +25,8 @@ Several data cleaning steps were performed before the analysis:
    - Created an additional column to calculate profit by using the difference between revenue (Amount) and cost. This new column was added to the data table to provide 
      insights into profitability.
 
+# visualization
+
 
 ![Power BI Dashboard screenshot](https://github.com/raifismail/Middle-East-Dry-Fruits-Company-Project-case-study-/blob/33de14d8acd371f2c4534957e991a83df2dc5b3e/Screenshot%202024-10-16%20113359.png)
 
