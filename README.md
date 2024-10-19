@@ -27,7 +27,7 @@ Several data cleaning steps were performed before the analysis:
 
 # Visualization-
 
-Interative dashboard included in the repository you can find it [here]()
+Interative dashboard included in the repository you can find it [here](https://github.com/raifismail/Middle-East-Dry-Fruits-Company-Project-case-study-/blob/8da1c3bd46f99b0c93e0563b3a6d446ce3004716/sales%20new%20power%20bi%20viz.pbix)
 ![Power BI Dashboard screenshot](https://github.com/raifismail/Middle-East-Dry-Fruits-Company-Project-case-study-/blob/33de14d8acd371f2c4534957e991a83df2dc5b3e/Screenshot%202024-10-16%20113359.png)
 
 # Key Questions Addressed
